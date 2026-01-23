@@ -1,0 +1,16 @@
+body
+{
+    background: black;
+    color: white;
+}
+section.main
+{
+    outline-style:double;
+    outline-color:aqua;
+    padding: 1em;
+}
+span.faction
+{
+    font-weight:bold;
+    color:green;
+}
